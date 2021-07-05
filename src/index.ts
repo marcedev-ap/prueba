@@ -1,4 +1,3 @@
-import "./components/card";
 import "./components/text";
 import "./components/todo-item";
 import { initHomepage } from "./pages/home";
